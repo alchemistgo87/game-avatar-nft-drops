@@ -4,4 +4,4 @@ NFT Marketplace to purchase Game Avatars deployed on Solana Blockchain (with med
 
 ## Reference
 
-Solana NFT Drop Project on buildspace[https://buildspace.so/] - One of the best online community to learn all about web3.
+Solana NFT Drop Project on [buildspace](https://buildspace.so/) - One of the best online community to learn all about web3.
