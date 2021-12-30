@@ -1,9 +1,10 @@
-.App {
-  height: 100vh;
+body {
   background-color: rgb(20, 20, 20);
-  overflow: scroll;
+}
+.App {
+  height: 100%;
   text-align: center;
-  overflow: hidden;
+  margin-top: 3rem;
 }
 
 .container {
@@ -75,11 +76,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  position: absolute;
   width: 100%;
-  bottom: 0;
-  left: 0;
-  /* padding-bottom: 45px; */
+  margin-top: 5rem;
+  margin-bottom: 3rem;
 }
 
 .twitter-logo {
@@ -93,7 +92,7 @@
   color: white;
 }
 
-.connected-container input[type='text'] {
+.connected-container input[type="text"] {
   display: inline-block;
   padding: 10px;
   width: 50%;

@@ -1,0 +1,19 @@
+{
+  "name": "Mario Flying",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CKvAd8dGDYjU5WvAD98VpP9Tp3deHVUdEhnipA8UD4AJ",
+        "share": 100
+      }
+    ]
+  }
+}
